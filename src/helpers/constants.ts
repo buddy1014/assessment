@@ -1,0 +1,1 @@
+export const API_URL = 'https://fakerapi.it/api/v1/images?_width=380';
